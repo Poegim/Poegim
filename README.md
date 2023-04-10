@@ -2,4 +2,4 @@ Jacek.
 
 Just another amateur webdev from Krakow, Poland.
 
-PHP, Laravel, CSS, TailwindCSS, JavaScript.
+PHP, Laravel, HTML, CSS, TailwindCSS, JavaScript.
