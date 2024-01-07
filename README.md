@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Jacek</h1>
 <h3 align="center">Just another amateur webdev from Krakow, Poland.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  <h3 align="center">Languages and Tools:</h3>
+</div>
+
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:50px" /> 
