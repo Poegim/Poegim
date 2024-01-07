@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacek</h1>
 <h3 align="center">Just another amateur webdev from Krakow, Poland.</h3>
 
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
