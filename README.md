@@ -5,7 +5,7 @@
   <h3 align="center">Languages and Tools:</h3>
 </div>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:50px" /> 
   </a>
