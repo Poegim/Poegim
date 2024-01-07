@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jacek</h1>
+<h1 align="center">Hi, I'm Jacek</h1>
 <h3 align="center">Just another amateur webdev from Krakow, Poland.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:50px" /> 
   </a> 
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40" style="vertical-align:middle;margin:50px 0px"/> 
