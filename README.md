@@ -3,4 +3,5 @@
 <p>PHP</p>
 <p>Laravel, Livewire</p>
 <p>JavaScript</p>
-<p>AlpineJS, HTML, CSS</p>
+<p>AlpineJS, HTML, CSS, TailwindCSS</p>
+<p>MySQL</p>
