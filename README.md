@@ -1,4 +1,4 @@
-<h1>Hello, Jacek here, just another webdev from PL, Krakow.</h1>
+# Hello, I'm Jacek, a web developer from Krakow, Poland.
 
 <p> <h3>Stack:</h3> </p>
 
